@@ -1,4 +1,23 @@
-# just-the-docs-template
+<p align="center">
+  <a href="https://howdoidocs.tech">
+    <img src="https://github.com/how-do-i-docs/design/raw/main/assets/howdoidocs-logo-bg.svg" height="96">
+    <h1 align="center">How Do I Docs? — Docs Site Template</h1>
+  </a>
+</p>
+
+<h3 align="center">
+  A quick-and-easy template for spinning up a bare minimum documentation site, powered by <a href="https://just-the-docs.github.io/just-the-docs/">Just the Docs</a>!
+</h3>
+
+<p align="center">
+    <a href="https://github.com/how-do-i-docs/site"><strong>Site Source</strong></a>  ·
+    <a href="https://github.com/how-do-i-docs/design"><strong>Design</strong></a>  ·
+  <a href="https://docs.howdoidocs.tech"><strong>Documentation</strong></a> ·
+  <a href="https://github.com/how-do-i-docs/doc-templates"><strong>Templates</strong></a>
+</p>
+<br/>
+
+## Overview
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
@@ -70,7 +89,22 @@ You're free to customize sites that you create with this template, however you l
 
 [Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
-## Licensing and Attribution
+
+## Additional Resources
+
+- [Site Repository](https://github.com/how-do-i-docs/site)
+- [Design Repository](https://github.com/how-do-i-docs/design)
+- [Templates Repository](https://github.com/how-do-i-docs/doc-templates)
+- [Documentation Site](https://docs.howdoidocs.tech)
+
+## Credits
+
+- Logo based on writing emoji from [OpenMoji](https://openmoji.org)
+- Interface font used is Rasmus Andersson's [Inter](https://rsms.me/inter/)
+- Substantial content pulled from [The Good Docs Project](https://thegooddocsproject.dev)
+- Documentation site template is from [Just the Docs](https://github.com/just-the-docs/just-the-docs)
+
+## Terms of use
 
 This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
 
