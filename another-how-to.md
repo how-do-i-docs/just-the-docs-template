@@ -1,10 +1,10 @@
 ---
-title: Development Environment
+title: Another How To
 layout: page
-nav_order: 2
+nav_order: 3
 ---
 
-# How to Set Up a Development Environment
+# Another How To
 
  {Before using this template, read the accompanying [how-to template guide](about-how-to.md)}
 
