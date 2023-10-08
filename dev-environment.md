@@ -1,6 +1,6 @@
 ---
 title: Development Environment
-layout: page
+layout: default
 ---
 
 # How to Set Up a Development Environment
